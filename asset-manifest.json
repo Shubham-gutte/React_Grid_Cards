@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%20React_Grid_Cards/static/css/main.1ab0284a.css",
+    "main.js": "/%20React_Grid_Cards/static/js/main.f3ccfcd4.js",
+    "static/js/787.f055211e.chunk.js": "/%20React_Grid_Cards/static/js/787.f055211e.chunk.js",
+    "index.html": "/%20React_Grid_Cards/index.html",
+    "main.1ab0284a.css.map": "/%20React_Grid_Cards/static/css/main.1ab0284a.css.map",
+    "main.f3ccfcd4.js.map": "/%20React_Grid_Cards/static/js/main.f3ccfcd4.js.map",
+    "787.f055211e.chunk.js.map": "/%20React_Grid_Cards/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab0284a.css",
+    "static/js/main.f3ccfcd4.js"
+  ]
+}
